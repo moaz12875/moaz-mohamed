@@ -1,31 +1,42 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> مرحباً (Welcome) 👋🏻، أنا معاذ محمد! </h2>
-<p><em>طالب وشغوف بتطوير الويب والذكاء الاصطناعي (Web & AI Developer)</em></p>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste) / مرحباً 👋🏻، أنا معاذ محمد! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>طالب مهتم بتطوير الويب والذكاء الاصطناعي (Web & AI Developer) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
----
+![GitHub followers](https://img.shields.io/github/followers/moaz12875?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=moaz12875.moaz-mohamed)
 
 ### 🚀 نبذة عني (A little more about me...)  
 
 ```javascript
 const moaz = {
   name: "معاذ محمد (Moaz Mohamed)",
-  role: "Student & Developer",
-  interests: ["Web Development", "Artificial Intelligence"],
+  pronouns: ["he", "him"],
+  languages: ["HTML", "CSS", "JavaScript", "Python"],
   askMeAbout: [
-    "Frontend development",
-    "AI integration",
-    "Coding basics",
-    "Future tech"
+    "web development",
+    "frontend development",
+    "artificial intelligence",
+    "generative AI",
+    "coding basics"
   ],
 
   technologies: {
     frontend: {
-      languages: ["HTML", "CSS", "JavaScript"]
+      languages: ["HTML", "CSS", "JavaScript"],
+      frameworks: ["React"] // يمكنك إضافة ما تتعلمه هنا مستقبلاً
     },
-    aiAndData: {
-      interests: ["Machine Learning", "AI Tools", "Prompt Engineering"]
+
+    ai: {
+      generativeAI: [
+        "AI integration",
+        "Prompt engineering",
+        "AI tools"
+      ],
+      interests: ["Machine Learning", "Deep Learning"]
     }
   },
 
-  currentFocus: "تعلم وتطوير مهارات جديدة في بناء تطبيقات الويب المدعومة بالذكاء الاصطناعي",
+  currentFocus: "بناء تطبيقات ويب ذكية ودمج تقنيات الذاء الاصطناعي في البرمجة",
   funFact: "أفضل طريقة لحل أي مشكلة برمجية هي كوب قهوة وجلسة تركيز هادئة!"
 };
