@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/moaz12875?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=moaz12875.moaz-mohamed)
 
-### 🚀 نبذة عني (A little more about me...)  
+### 🚀  (A little more about me...)  
 
 ```javascript
 const moaz = {
@@ -18,13 +18,16 @@ const moaz = {
     "frontend development",
     "artificial intelligence",
     "generative AI",
-    "coding basics"
+    "machine learning",
+    " NLP",
+    " deep learning ",
+    " computer vision "
   ],
 
   technologies: {
     frontend: {
-      languages: ["HTML", "CSS", "JavaScript"],
-      frameworks: ["React"] // يمكنك إضافة ما تتعلمه هنا مستقبلاً
+      languages: ["HTML", "CSS", "JavaScript" , "c + + ", "java ", "python"],
+      frameworks: ["React, Node"]
     },
 
     ai: {
@@ -33,7 +36,7 @@ const moaz = {
         "Prompt engineering",
         "AI tools"
       ],
-      interests: ["Machine Learning", "Deep Learning"]
+      interests: ["Machine Learning", "Deep Learning"," NLP ","computer vision" ]
     }
   },
 
